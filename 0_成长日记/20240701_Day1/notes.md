@@ -1,4 +1,4 @@
-# 🔥 2024年7月1日 - Linux Day1 
+# 🔥 2025年7月1日 - Linux Day1 
 ## ✅ 已完成任务
 * 了解了Linux的起源以及和Unix的各种关系
 * 安装了vm还有CentOS虚拟机
