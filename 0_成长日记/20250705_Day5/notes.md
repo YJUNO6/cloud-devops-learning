@@ -1,7 +1,9 @@
 #  2025年7月5日 - Linux Day5 
 ##  已完成任务
 1. 掌握了自定义函数的基本语法及使用
-![自定义函数练习](https://github.com/user-attachments/assets/bed9053e-d07b-4eb4-a998-7b3123e4a815)
+![屏幕截图 2025-07-07 151611](https://github.com/user-attachments/assets/29eda54b-2dd7-4bc7-ad01-f5366601bda4)
+2.进行了一个定时备份数据库的实验
+
 
 3. 掌握10个核心命令：
    | 命令      | 用途           | 示例                 |
