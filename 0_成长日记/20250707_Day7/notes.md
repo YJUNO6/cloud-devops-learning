@@ -1,4 +1,4 @@
-# 🔥 2025年7月7日 - Linux Day7 
+# 🔥 2025年7月7日 - Day7 
 ## ✅ 已完成任务
 1. 学习配置动态路由的端口以及实操连接 ![模型图](https://github.com/YJUNO6/cloud-devops-learning/blob/main/0_%E6%88%90%E9%95%BF%E6%97%A5%E8%AE%B0/20250707_Day7/screenshot/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-07-09%20120244.png)
 2. 了解了服务器和服务器如何通过端口进行连接 ![源地址-->目标地址](https://github.com/YJUNO6/cloud-devops-learning/blob/main/0_%E6%88%90%E9%95%BF%E6%97%A5%E8%AE%B0/20250707_Day7/screenshot/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-07-09%20124802.png)
