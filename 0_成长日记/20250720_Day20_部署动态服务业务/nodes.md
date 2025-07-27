@@ -1,1 +1,1 @@
-
+https://github.com/YJUNO6/cloud-devops-learning/blob/main/0_%E6%88%90%E9%95%BF%E6%97%A5%E8%AE%B0/20250720_Day20_%E9%83%A8%E7%BD%B2%E5%8A%A8%E6%80%81%E6%9C%8D%E5%8A%A1%E4%B8%9A%E5%8A%A1/sreenshot/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-07-23%20162515.png
